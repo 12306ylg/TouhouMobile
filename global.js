@@ -275,12 +275,6 @@ var touhouMobile = {
             info : "提供者暂未提供描述，请等待更新(这个是谷歌游戏，似乎玩不了)",
             star : 0
         },
-        /*"Satori 的像素地牢" : {
-            url : "https://www.lanzouh.com/iVZvT260jpib",
-            info : "提供者暂未提供描述，请等待更新",
-            star : 0
-        },这个就是觉地牢*/
-       
         "东方玉灵宫(破解版)" : {
             url : "https://www.lanzouh.com/i1UDY260jvod",
             info : "提供者暂未提供描述，请等待更新",
